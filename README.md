@@ -2,4 +2,7 @@ Yet another unit converter created as part of Scrimba's Frontend Developer Caree
 
 It converts between Metric and Imperial (US) for length, volume, and mass based on user input. Its color scheme can be customized with five gradient choices as well as a light/dark mode.
 
-Planned future update: remember user color and light/dark preference
+Planned future updates: 
+* remember user color and light/dark preference
+* responsive
+* more robust conversion choices
